@@ -23,3 +23,7 @@ Conclusions:
 3. Maximum number of rock songs were recorded in 2008. 
 4. The interest in music started peaking from 2013. 
 5. With combinations of different values of energy, acousticness, loudness, instrumentalness, temp and liveness, different genres can be created as with these filters, in a huge dataset, different songs get selected. All songs from one set of filters will form a genre. 
+
+
+Interactive Tableau Dashboard
+https://public.tableau.com/app/profile/venkat.srinidhi.vaddy/viz/SpotifyAudioFeatureAnalysis/Dashboard1
